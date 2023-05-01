@@ -8,12 +8,14 @@ At this stage I distinguish in a naive way, 4 ways of expressing oneself.
 
 Speaking :
 
-The sustained oral language which is found in an official environment [1]
-Colloquial oral language which is found in a family or friendly context (perhaps the most used and not the most correct) [2]
+- The sustained oral language which is found in an official environment [1]
+- Colloquial oral language which is found in a family or friendly context (perhaps the most used and not the most correct) [2]
+
 Texting :
 
-Official written language [3]
-Not official written language (sms) [4]
+- Official written language [3]
+- Not official written language (sms) [4]
+
 We could also add romantic, theatrical etc. ways which can be several in some languages but it seems enough for now.
 
 My personal goal is to determine the differences in a language between native and foreigner speaker. But it also could be to help anyone who wants to improve himself in one of those ways of speaking to sound more more "natural" to native speaker hearing. (The most funny one seams to be [2] to me)

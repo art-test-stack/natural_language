@@ -25,7 +25,7 @@ First issues will be about reading and testing documentation about NLP. In the o
 ## env
 
 ```bash
-virtualenv -p python3.10 virtualenv -p python3.10 /Users/arthurtestard/envs/nlenv
+virtualenv -p python3.10 virtualenv -p python3.10 /envs/nlenv
 ````
 ```bash
 source ${HOME}/envs/nlenv
@@ -38,6 +38,6 @@ python3.10 get-pip.py
 python3.10 -m pip install --upgrade pip
 rm get-pip.py
 
-## Code Source 
+## Source 
 
 http://aima.cs.berkeley.edu/
